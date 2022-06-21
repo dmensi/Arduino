@@ -1,8 +1,8 @@
 # Arduino
  Practicas
-1 LED (Arduino/tree/main/practia/led/1_led)
+1 LED (Arduino/practica/led/)
 
-[LED](Arduino/tree/main/practica)
+[LED](Arduino/practica/led/)
 
 
 2 [Detectando colores](Prácticas-de-iniciación/mBlock/Detectando-colores/)
